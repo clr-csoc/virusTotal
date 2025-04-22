@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: virusTotal
+Version: 0.0.1
+Summary: Esta es una aplicacion hecha en python para usar virustotal
+Home-page: https://github.com/clr-csoc/virusTotal.git
+Author: Raul Villano Obregon
+Author-email: raulengineer@gmail.com
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: vt-py
+Requires-Dist: openpyxl
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
+# virusTotal
+libreria de python y virus total

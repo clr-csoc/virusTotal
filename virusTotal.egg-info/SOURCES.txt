@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+virusTotal/__init__.py
+virusTotal/virus-total.py
+virusTotal.egg-info/PKG-INFO
+virusTotal.egg-info/SOURCES.txt
+virusTotal.egg-info/dependency_links.txt
+virusTotal.egg-info/not-zip-safe
+virusTotal.egg-info/requires.txt
+virusTotal.egg-info/top_level.txt
